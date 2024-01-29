@@ -1,5 +1,4 @@
-// C program to demonstrate the
-// area and perimeter of rectangle
+// C program to demonstrate the area and perimeter of rectangle
 #include <stdio.h>
  
 int main()
